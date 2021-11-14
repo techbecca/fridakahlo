@@ -14,14 +14,15 @@ The project description:
 * Python installed (e.g. through Anaconda or Miniconda)
 * Jupyter Notebook installed
 * Basic navigation knowledge in a command line interface (CLI). 
-    * I'm using Git Bash on Windows, which is a Bash shell.
-    * On Mac or Linux, the in-built terminals are already Bash shells.
+    * Depending on your installation of Python, you might need to use the `Anaconda Prompt` shell
+    * Other shells: I'm using Git Bash on Windows, which is a Bash shell. On Mac or Linux, the in-built terminals are already Bash shells.
 
 ## Getting started
 1. In the terminal, navigate to the directory containing the project and type
 
         jupyter notebook
 
-    This should open a browser tab with the Jupyter file navigator interface
+    This should open a browser tab with the Jupyter file navigator interface. **It doesn't work?** Try doing it in the Anaconda Prompt CLI, if you installed Python through Anaconda.
+
 2. Click on **frida_project.ipynb** in the browser tab. This will open your Jupyter notebook
 3. Follow the steps in the Jupyter Notebook. If you get stuck, you can look at **frida_solution.ipynb** for the answer.
